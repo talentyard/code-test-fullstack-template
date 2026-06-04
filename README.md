@@ -1,5 +1,7 @@
 # Playwind — AI Full Stack Developer Code Test
 
+> 中文版：[README.zh.md](./README.zh.md)
+
 **Duration:** 7 days  
 **Questions?** Contact xin@playwindgames.com
 
