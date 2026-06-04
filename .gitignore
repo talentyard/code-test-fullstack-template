@@ -1,0 +1,6 @@
+node_modules/
+build/
+.env
+rn-app/node_modules/
+rn-app/.expo/
+rn-app/dist/
